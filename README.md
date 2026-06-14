@@ -33,9 +33,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/ann-maria-joby"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://annmaria3.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:annjoby84@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
