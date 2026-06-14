@@ -1,63 +1,183 @@
-# AnnMariaJoby
+<div align="center">
 
-<h1 align="center">
-Hi 👋 I'm Ann Maria Joby
-</h1>
+# Hi 👋 I'm Ann Maria Joby
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
 
-About Me ;
+</div>
 
-🎓 B.Tech Computer Science Graduate ;
+---
 
-💻 Python Developer ;
+## 🚀 About Me
 
-🤖 AI & ML Enthusiast ;
+🎓 B.Tech Computer Science Engineering Graduate
 
-🚇 Internship at Kochi Metro ;
+💻 Passionate Python Developer
 
-📍 Kerala, India ;
+🤖 AI, Machine Learning & Computer Vision Enthusiast
 
-🌱 Currently Learning: ;
-Django, React, Cloud Technologies ;
+🚇 Completed Internship at Kochi Metro Rail Limited
 
-Tech Stack Section ;
+🔍 Built AI-powered License Plate Recognition System
 
+📊 Working on Smart Billboard Prediction System
 
-Languages: ;
+🌱 Currently Learning React, Django, Cloud & System Design
 
-Python ;
-Java ;
-C ;
-CPP ;
-JavaScript ;
-SQL ;
- 
-Frontend: ;
+📍 Kerala, India
 
-HTML ;
-CSS ;
-Bootstrap ;
-React ;
+📫 Reach me: **your-email@gmail.com**
 
-Backend: ;
+---
 
-Django ;
-Flask
-PHP
-MySQL
+## 🌐 Connect With Me
 
-AI:
+<p align="left">
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
-YOLO
-OpenCV
-PaddleOCR
-TensorFlow
+---
 
-Cloud:
+## 💻 Tech Stack
 
-AWS
-Firebase
-Supabase
+### Languages
 
-=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,php,mysql" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+- YOLO
+- PaddleOCR
+- OpenCV
+- TensorFlow
+- Computer Vision
+
+### Cloud & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,mysql" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🚗 AI License Plate Recognition System
+
+- YOLO Vehicle Detection
+- SORT Tracking
+- PaddleOCR Recognition
+- Real-Time Vehicle Entry/Exit Logging
+
+### 🛒 Smart Billboard Prediction System
+
+- AI-powered Retail Advertising
+- BLE Beacon Tracking
+- Customer Behavior Analysis
+- Personalized Advertisement Prediction
+
+### 🤖 ProjectPilotAI
+
+- AI Project Management Platform
+- React + Supabase
+- Gemini API Integration
+- Smart Task Generation
+
+### 🎉 College Event Management System
+
+- Student Dashboard
+- Faculty Dashboard
+- Admin Dashboard
+- Event Registration & Management
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnMariaJoby&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnMariaJoby&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnMariaJoby&theme=tokyonight" />
+</p>
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnnMariaJoby&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📜 Certifications (Coming Soon)
+
+🏆 AWS Cloud Practitioner
+
+🏆 Google AI Essentials
+
+🏆 Microsoft Azure Fundamentals (AZ-900)
+
+🏆 IBM Artificial Intelligence Fundamentals
+
+🏆 Oracle Java Certification
+
+---
+
+## 🚀 Current Focus
+
+✔ Software Engineering Opportunities
+
+✔ Python Development
+
+✔ AI & Machine Learning
+
+✔ Computer Vision Projects
+
+✔ Cloud Technologies
+
+---
+
+## 💡 Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, don't forget to star them!
+
+<img src="https://komarev.com/ghpvc/?username=AnnMariaJoby&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
