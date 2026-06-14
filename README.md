@@ -26,7 +26,7 @@
 
 📍 Kerala, India
 
-📫 Reach me: **your-email@gmail.com**
+📫 Reach me: **annjoby84@gmail.com**
 
 ---
 
